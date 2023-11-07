@@ -6,5 +6,6 @@
 - make project show case of all framework to display as a demo in github or make it as a boiler plate,
   example: react make react demo and show how it work how to use props, state setState state management,
    how to make todo list or anything it can do
-- make npm open source for dropdown multiselect from core-report ui 
+- make npm open source for dropdown multiselect from core-report ui
+- make boileder plate backend crud with next js
   
