@@ -14,4 +14,5 @@
     - add color picker
     - add edit mode to add or delete image
 - is rude word npm function check is rude word in all languages
+- remember card game 2 player pair the card who most paired the card that win the game
   
