@@ -9,5 +9,9 @@
 - make npm open source for dropdown multiselect from core-report ui
 - make boileder plate backend crud with next js
 - renew toilet wall with new react
+  enhance
+    - tolilet wall with private room can login with firebase authen
+    - add color picker
+    - add edit mode to add or delete image
 - is rude word npm function check is rude word in all languages
   
