@@ -16,5 +16,9 @@
 - is rude word npm function check is rude word in all languages
 - remember card game 2 player pair the card who most paired the card that win the game
 
--Netflix like application web use the real could servics and backend
+- Netflix: like application web use the real could servics and backend
+- KinRaiDee: the application that look like Tinder but search for restaurants near by and have following feature
+  - show up restaurants and can swipe up to see detail comment, price, vive, and picture of food
+  - keep yes: swipe right going restaurans keep star and can see history.
+  - keep No: swipe left not going and not like restaurans but it can restore.
   
