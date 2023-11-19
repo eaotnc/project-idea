@@ -22,3 +22,9 @@
   - keep yes: swipe right going restaurans keep star and can see history.
   - keep No: swipe left not going and not like restaurans but it can restore.
   
+- thai-number-input: create thai number input even type in arabic number but when out of focus it should convert to thai number
+   - have number input
+   - have text area input
+   - have text input with number
+ 
+  
