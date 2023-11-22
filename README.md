@@ -30,3 +30,6 @@
 - Miro Like: learn floating mouse of another people 
  
   
+## blog idea
+### this use for memmorize every thing  that I learn from work to easy to summarize when I'm going to interveiw again.
+- the diff of state management in react
