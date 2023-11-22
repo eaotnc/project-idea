@@ -27,4 +27,6 @@
    - have text area input
    - have text input with number
  
+- Miro Like: learn floating mouse of another people 
+ 
   
