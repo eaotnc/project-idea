@@ -4,6 +4,10 @@
 - find not use config in config.json and auto deleted it
 
 ## Free-Time
+- new year resolution tracker
+  let's define your new year goal and tracking it every day then share it in public, every one can comment on that goal cheering up , and the system will score of your goal
+- motivation motto
+  this web page just random motivation motto can click it to re-random 
 - keep-claim
     when you are angry when you did not claim, focus or conscious use this web page to help you
     this web show beautiful animation help you focus on breathing in and breathing out
