@@ -4,6 +4,8 @@
 - find not use config in config.json and auto deleted it
 
 ## Free-Time
+- market reminder
+  the application that notify user when drive nearby market that has something missing in user house to by
 - new year resolution tracker
   let's define your new year goal and tracking it every day then share it in public, every one can comment on that goal cheering up , and the system will score of your goal
 - motivation motto
