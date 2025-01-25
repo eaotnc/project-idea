@@ -1,2 +1,6 @@
 Game project
 - O nai oak
+
+Rock, Paper, Scissors Game
+- Develop a simple Rock, Paper, Scissors game where the user plays against the computer. The game should declare a winner after each round.
+- Skills learned: Conditionals, loops, random choices.
