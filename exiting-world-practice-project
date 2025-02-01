@@ -11,4 +11,14 @@ Web Brown Coffee bar
 Dorm-management-web
 - display available room 
 - reserve room
-- manage price in mothly
+- manage price in monthly
+
+Web Photo editor only front-end
+- can edit photos and download via website
+- can adjust brightness
+- can adjust contrast
+- can adjust color 
+- can adjust white balance
+- can apply color profile
+- can apply preset
+- can do multiple photo
