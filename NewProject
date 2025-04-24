@@ -1,0 +1,29 @@
+## New project Idea
+
+- KinRaiDee: the application that look like Tinder but search for restaurants near by and have following feature
+  - show up restaurants and can swipe up to see detail comment, price, vive, and picture of food
+  - keep yes: swipe right going restaurans keep star and can see history.
+  - keep No: swipe left not going and not like restaurans but it can restore.
+
+- market reminder
+  the application that notify user when drive nearby market that has something missing in user house to by
+
+- new year resolution tracker
+  let's define your new year goal and tracking it every day then share it in public, every one can comment on that goal cheering up , and the system will score of your goal
+
+- motivation motto
+  this web page just random motivation motto can click it to re-random 
+
+- keep-claim
+    when you are angry when you did not claim, focus or conscious use this web page to help you
+    this web show beautiful animation help you focus on breathing in and breathing out
+
+- is rude word npm function check is rude word in all languages
+
+- remember card game 2 player pair the card who most paired the card that win the game
+
+- thai-number-input: create thai number input even type in arabic number but when out of focus it should convert to thai number
+   - have number input
+   - have text area input
+   - have text input with number
+ 
